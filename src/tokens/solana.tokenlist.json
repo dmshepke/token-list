@@ -6017,6 +6017,18 @@
     },
     {
       "chainId": 101,
+      "address": "4pmyecmorZFBNSYrHsxRTi9JabduunKvHj14cCmXv5oC",
+      "symbol": "TSUN",
+      "name": "Tsundere Token",
+      "decimals": 8,
+      "logoURI": "https://user-images.githubusercontent.com/37191830/141215920-f75a1a1c-6e8b-46fe-a07d-f43eb97b7d81.jpeg",
+      "tags": [
+        "social-token",
+        "loop"
+      ]
+    },
+    {
+      "chainId": 101,
       "address": "EzeRaHuh1Xu1nDUypv1VWXcGsNJ71ncCJ8HeWuyg8atJ",
       "symbol": "wCC10",
       "name": "Cryptocurrency Top 10 Tokens Index (Wormhole)",
